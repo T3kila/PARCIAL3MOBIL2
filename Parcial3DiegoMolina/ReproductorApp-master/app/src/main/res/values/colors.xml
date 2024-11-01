@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#A5D6A7</color> <!-- Verde claro -->
+    <color name="purple_500">#4CAF50</color> <!-- Verde principal -->
+    <color name="purple_700">#388E3C</color> <!-- Verde oscuro -->
+    <color name="teal_200">#81D4FA</color> <!-- Azul claro -->
+    <color name="teal_700">#0288D1</color> <!-- Azul oscuro -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
